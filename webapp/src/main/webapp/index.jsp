@@ -1,5 +1,14 @@
-<h1> Thankyou, Happy Learning </h1>
-<h1> Thankyou, Happy Learning2 </h1>
-<h1> build and deployment has done using poll scm </h1>
-<h1> build and deployment has done using poll scm </h1>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h3 style="color:Tomato;">Hello World</h3>
+
+<p style="color:DodgerBlue;">build and deployment has done using poll scm</p>
+
+<p style="color:MediumSeaGreen;">welcome to jenkins...!</p>
+
+</body>
+</html>
+
 
