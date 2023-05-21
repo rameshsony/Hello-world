@@ -7,7 +7,7 @@
 <p style="color:DodgerBlue;">build and deployment has done using poll scm</p>
 
 <p style="color:MediumSeaGreen;">welcome to jenkins...!</p>
-  <p style="color:MediumSeaGreen;">welcome to jenkins2...!</p>
+  
 
 </body>
 </html>
