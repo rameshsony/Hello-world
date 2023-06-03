@@ -8,6 +8,8 @@
 
 <p style="color:MediumSeaGreen;">welcome to jenkins...!</p>
   
+ <p style="color:MediumSeaBlue;">welcome to jenkins build job...!</p>
+  
 
 </body>
 </html>
