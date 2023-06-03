@@ -10,6 +10,7 @@
   
  <p style="color:MediumSeaBlue;">welcome to jenkins build job...!</p>
    <p style="color:MediumSeaGreen;">welcome to jenkins build job1...!</p>
+  <p style="color:MediumSeaGreen;">welcome to jenkins build job1...!</p>
   
 
 </body>
