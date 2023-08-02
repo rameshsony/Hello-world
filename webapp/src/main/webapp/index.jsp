@@ -7,6 +7,7 @@
 <p style="color:DodgerBlue;">build and deployment has done</p>
 
 <p style="color:MediumSeaGreen;">welcome to jenkins...!</p>
+<p style="color:MediumSeaGreen;">welcome to jenkins..2...!</p>
   
 
   
