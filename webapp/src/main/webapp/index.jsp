@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <html>
-<body style="background-color:powderblue;">
+
 <head>
 	<title>
 		Simple web Development Template
