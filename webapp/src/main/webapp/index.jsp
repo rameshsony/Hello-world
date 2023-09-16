@@ -17,6 +17,7 @@
 			<li><a href="#web">Jenkins</a></li>
 			<li><a href="#program">Docker</a></li>
 			<li><a href="#course">Kubernetes</a></li>
+                        <li><a href="#course">Ansible</a></li>
 		</ul>
 
 		<div class="rightNav">
